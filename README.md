@@ -1,1 +1,6 @@
-nao gosto de front end, entao nao vai ter nada aqui :D
+Atualmente curso Desenvolvimento de Sistemas
+
+Estou aprendendo:
+C#
+SQL
+PHP
