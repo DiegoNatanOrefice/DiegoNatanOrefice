@@ -4,3 +4,5 @@ Estou aprendendo:
 C#
 SQL
 PHP
+
+Gosto de backend
